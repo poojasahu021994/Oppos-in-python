@@ -1,0 +1,5 @@
+polymorphisum:-same name function with different argument
+
+types of polymorphisum
+1) method overloading
+2)methode overriding
