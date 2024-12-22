@@ -1,0 +1,9 @@
+access specifiers:
+        1) Public (govt.place) 
+        2) protected (coverd_campus)
+        3) privet (privet house)
+
+repregentetion  in access specifiers
+1)   Public --->  x=10 normal
+2)   protected ---> _x=10 ( _ ) 
+3)   privet ---> __x=10 ( __ )
